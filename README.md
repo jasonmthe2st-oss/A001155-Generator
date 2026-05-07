@@ -10,6 +10,4 @@ For example, starting at 0:
 - 3110 (because there are 3 1s and 1 0)
 - 132110 (because there is 1 3, 2 1s, and 1 0)
 
-Note that none of these inputs are valid since they do not exist in the function; I use them here to demonstrate how the sequence works.
-
 The program is compiled through normal means.
