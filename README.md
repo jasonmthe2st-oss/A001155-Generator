@@ -11,3 +11,5 @@ For example, starting at 0:
 - 132110 (because there is 1 3, 2 1s, and 1 0)
 
 The program is compiled through normal means.
+
+g++ path/to/file/generator.cpp -o path/to/file/output
