@@ -5,6 +5,8 @@ Description: Creates a specified number of entries in Sequence A001155
     as defined by the OEIS. https://oeis.org/A001155
 */
 #include <iostream>
+#include <limits>
+#include <string>
 
 /*
 This function takes the input and finds the next entry in the sequence.
